@@ -1,0 +1,5 @@
+password_1 = "Sup3rS3cretValue1Qz9!"
+password_2 = "Sup3rS3cretValue2Qz9!"
+password_3 = "Sup3rS3cretValue3Qz9!"
+password_4 = "Sup3rS3cretValue4Qz9!"
+password_5 = "Sup3rS3cretValue5Qz9!"
